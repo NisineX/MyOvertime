@@ -1,0 +1,11 @@
+{
+  "id": "./index.html",
+  "name": "My Overtime",
+  "short_name": "My Overtime",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#e2136e",
+  "orientation": "portrait"
+}
