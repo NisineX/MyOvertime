@@ -1,0 +1,10 @@
+{
+  "name": "My Overtime",
+  "short_name": "My Overtime",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "version": "2026.11.04-update-progress-1"
+}
