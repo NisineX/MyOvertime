@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "update": true,
+  "message": "Silent background update",
+  "downloadUrl": "https://nisinex.github.io/MyOvertime/app.html",
+  "sha256": "803d04b3933a73a2ca59f1a7d3d644de0d63396fa75497a1a02765342cb65657"
+}
